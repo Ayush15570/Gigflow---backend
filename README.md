@@ -37,3 +37,6 @@ Clients can post gigs, freelancers can bid on them, and clients can hire freelan
 cd backend
 npm install
 npm run dev
+
+Loom video Link-
+https://www.loom.com/share/952df5e58fc04007a2f5666cb8a05a98
