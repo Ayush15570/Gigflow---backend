@@ -1,5 +1,11 @@
 # GigFlow – Mini Freelance Marketplace Platform
 
+
+##FRONTEND LINK - 
+Frontend Repository:
+https://github.com/Ayush15570/gigFlow---frontend-1
+
+
 ## Overview
 GigFlow is a full-stack freelance marketplace where users can act as both clients and freelancers.
 Clients can post gigs, freelancers can bid on them, and clients can hire freelancers.
